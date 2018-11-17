@@ -1,0 +1,9 @@
+.container {
+    position: absolute;
+    left: 50vw;
+    transform: translateX(-50%);
+    width: 80vw;
+    min-width: 1200px;
+    height: 100vh;
+    border: 1px solid black;
+}
